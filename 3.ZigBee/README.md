@@ -1,2 +1,2 @@
 # BLE
-MicroPython for ZigBee UART Modules
+MicroPython for ZigBee UART Modules.
