@@ -4,7 +4,8 @@ MicroPython for UART IOT Modules
 ## 项目简介
 Micropython是指使用python做各类嵌入式硬件设备编程。MicroPython发展势头强劲，但在IOT上支持的SOC芯片还不多，
 而市面上已经拥有非常成熟的串口物联网模块，本项目旨在为市面上成熟的串口物联网模块开发micropython库,让用户可以快速
-实现各类物联网相关应用。本项目推荐使用MicroPython兼容性最好的pyboard（基于STM32）开发板。
+实现各类物联网相关应用。  
+本项目推荐使用MicroPython兼容性最好的pyboard（基于STM32）开发板。https://item.taobao.com/item.htm?&id=602426184690
 
 
 ## 代码贡献说明
