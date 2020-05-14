@@ -1,4 +1,4 @@
-#  低功耗蓝牙模块（BLE Module）
+#  TLS-02
 
 说明：模块厂商 WeBee，型号：TLS-02，购买链接：https://item.taobao.com/item.htm?id=543235124257
 
