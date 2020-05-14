@@ -1,2 +1,2 @@
 # pyIOT
-python for UART IOT Modules
+MicroPython for UART IOT Modules
