@@ -24,8 +24,8 @@ Micropython是指使用python做各类嵌入式硬件设备编程。MicroPython�
 请参考范例：https://github.com/01studio-lab/pyIOT/tree/master/BLE/TLS-02
 
 ## 合作伙伴
-如果你的产品或者服务正在本项目被使用，请提交logo到主目录-Parter文件夹，要求
-     WeBee
+如果你的产品或者服务正在本项目被使用，请提交logo图片到主目录-Parter文件夹。
+![WeBee](https://github.com/01studio-lab/MicroPython-Examples/blob/master/1.pyBoard%20v1.1(STM32)/4.%E7%89%A9%E8%81%94%E7%BD%91%E6%A8%A1%E5%9D%97/1.%E8%93%9D%E7%89%99(BLE)/TLS-02/Wire%20picture/WeBee%20TLS-02.png)
 
 ## 联系方式
 Jackey@01studio.org
