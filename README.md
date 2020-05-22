@@ -27,7 +27,7 @@ https://item.taobao.com/item.htm?&id=602426184690
 
 ## 合作伙伴
 如果你的产品或者服务正在本项目被使用，请提交logo图片到主目录-Parter文件夹，图片宽度应小于300像素。  
-![WeBee](https://github.com/01studio-lab/pyIOT/blob/master/Partner/WeBee.png)
+![WeBee](https://github.com/01studio-lab/pyIOT/blob/master/Partner/WeBee.png)  
 ![中科微](https://github.com/01studio-lab/pyIOT/blob/master/Partner/%E6%9D%AD%E5%B7%9E%E4%B8%AD%E7%A7%91%E5%BE%AE.png)
 
 ## 联系方式
