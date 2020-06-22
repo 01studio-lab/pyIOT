@@ -7,11 +7,11 @@
 '''
 
 #导入串口模块
-from tls02 import TLS02
+from tls01 import TLS01
 import time
 
 #构建蓝牙模块对象（串口）
-BLE=TLS02(3,9600) #设置串口号3和波特率,TX--Y9,RX--Y10
+BLE=TLS01(3,9600) #设置串口号3和波特率,TX--Y9,RX--Y10
 
 ###############信息透传################
 BLE.uart.write('Hello 01Studio!')#发送一条数据

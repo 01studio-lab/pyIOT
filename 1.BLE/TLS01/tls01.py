@@ -1,8 +1,8 @@
-# use WeBee TLS-02 BLE Module
+# use WeBee TLS-01 BLE Module
 
 from machine import UART
 
-class TLS02():
+class TLS01():
     def __init__(self, uart=3, baud_rate=9600):
         self.uart = UART(uart, baud_rate)
 

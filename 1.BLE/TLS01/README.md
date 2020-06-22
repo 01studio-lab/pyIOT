@@ -1,18 +1,18 @@
-#  TLS-02
+#  TLS-01
 
-说明：模块厂商 WeBee，型号：TLS-02，购买链接：https://item.taobao.com/item.htm?id=543235124257
+说明：模块厂商 WeBee，型号：TLS-01，购买链接：https://item.taobao.com/item.htm?id=543235124257
 
 出厂参数：广播名称：BLE SPS; 波特率：9600; 广播间隔：100ms
-![WeBee TLS-02](https://github.com/01studio-lab/MicroPython-Examples/blob/master/1.pyBoard%20v1.1(STM32)/4.%E7%89%A9%E8%81%94%E7%BD%91%E6%A8%A1%E5%9D%97/1.%E8%93%9D%E7%89%99(BLE)/TLS-02/Wire%20picture/WeBee%20TLS-02.png)
+![WeBee TLS-01](https://github.com/01studio-lab/MicroPython-Examples/blob/master/1.pyBoard%20v1.1(STM32)/4.%E7%89%A9%E8%81%94%E7%BD%91%E6%A8%A1%E5%9D%97/1.%E8%93%9D%E7%89%99(BLE)/TLS-02/Wire%20picture/WeBee%20TLS-02.png)
 ![Wire](https://github.com/01studio-lab/MicroPython-Examples/blob/master/1.pyBoard%20v1.1(STM32)/4.%E7%89%A9%E8%81%94%E7%BD%91%E6%A8%A1%E5%9D%97/1.%E8%93%9D%E7%89%99(BLE)/TLS-02/Wire%20picture/Wire.jpg)
 
 ## 构造对象
 ` ` `
-from tls02 import TLS02
+from tls01 import TLS01
 ` ` `
 
 ` ` `
-BLE= TLS02(3,9600) #构造蓝牙对象，pyboard串口号，波特率9600
+BLE= TLS01(3,9600) #构造蓝牙对象，pyboard串口号，波特率9600
 ` ` `
 
 ## 使用方法
